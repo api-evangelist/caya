@@ -1,0 +1,26 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://www.caya.com/compliance
+url: https://www.caya.com/compliance
+trust_center: https://app.eu.vanta.com/caya.com/trust/1sce89qaoibhbx8nfw7z4b
+data_hosting: High-security data center in the Frankfurt banking district, Germany
+certifications:
+- ISO 27001
+- GDPR/DSGVO
+- DORA
+- GoBD
+- BaFin-compliant
+- HGB
+- AO (Abgabenordnung)
+gobd_certificate: https://cdn.prod.website-files.com/6683d1f8d68ae361de2dcf21/6841a8bdda850b97ebe50230_GoBD-Certificate.pdf
+evidence:
+- source: https://www.caya.com/compliance
+  keywords:
+  - iso 27001
+  - dsgvo
+  - dora
+  - gobd
+  - trust center
+- source: https://app.eu.vanta.com/caya.com/trust/1sce89qaoibhbx8nfw7z4b
+  kind: vanta-trust-center
