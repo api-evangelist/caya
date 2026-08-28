@@ -12,6 +12,17 @@ description: >-
   27001, GDPR/DSGVO, DORA, GoBD, and German HGB/AO retention rules, with a public
   Vanta-hosted trust center. Surfaced as an HV Capital portfolio company and
   enriched into the API Evangelist network.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
