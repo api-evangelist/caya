@@ -50,7 +50,7 @@ tags:
 - Ai Enterprise Software
 - Document Automation
 - Intelligent Document Processing
-- Document-Management
+- Document Management
 - OCR
 - Data Extraction
 - Mail Digitization
@@ -67,6 +67,7 @@ tags_raw:
 - Mail Digitization
 - Compliance
 - Germany
+- Document-Management
 apis: []
 common:
 - type: TrustCenter
